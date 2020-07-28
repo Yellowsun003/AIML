@@ -1,5 +1,3 @@
-# AIML
-Learn AI ML Full Stack coding
+#Branch 4 Testing
 
-Hello I am testing the features of Git Hub in order to understand various features that Git Hub offers.
-This is really interesting and wonderful experience for me.
+In this we need to understand how merge works and when.
